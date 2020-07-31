@@ -4,7 +4,6 @@
 Recursive condition :
 fact(n) = 1                 n=0
         = fact(n-1) * n     n>0
-
 Udemy - Abdul Bari 
 */
 #include <stdio.h>
