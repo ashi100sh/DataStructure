@@ -5,7 +5,6 @@ Udemy course -> Abdul Bari - DataStructure using C and C++
 */
 
 #include <stdio.h>
-#include <stdlib.h>
 /* Recursion Method */
 int SumofNumber(int n) {
     if (n <= 0)
